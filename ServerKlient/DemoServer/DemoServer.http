@@ -1,0 +1,6 @@
+@DemoServer_HostAddress = http://10.71.39.98:5144
+
+GET {{DemoServer_HostAddress}}/messages
+Accept: application/json
+
+###

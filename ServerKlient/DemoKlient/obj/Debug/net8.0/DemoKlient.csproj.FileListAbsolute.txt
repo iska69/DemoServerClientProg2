@@ -1,0 +1,14 @@
+C:\Users\clara.witty\Prog2\ServerKlient\DemoKlient\bin\Debug\net8.0\DemoKlient.exe
+C:\Users\clara.witty\Prog2\ServerKlient\DemoKlient\bin\Debug\net8.0\DemoKlient.deps.json
+C:\Users\clara.witty\Prog2\ServerKlient\DemoKlient\bin\Debug\net8.0\DemoKlient.runtimeconfig.json
+C:\Users\clara.witty\Prog2\ServerKlient\DemoKlient\bin\Debug\net8.0\DemoKlient.dll
+C:\Users\clara.witty\Prog2\ServerKlient\DemoKlient\bin\Debug\net8.0\DemoKlient.pdb
+C:\Users\clara.witty\Prog2\ServerKlient\DemoKlient\obj\Debug\net8.0\DemoKlient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clara.witty\Prog2\ServerKlient\DemoKlient\obj\Debug\net8.0\DemoKlient.AssemblyInfoInputs.cache
+C:\Users\clara.witty\Prog2\ServerKlient\DemoKlient\obj\Debug\net8.0\DemoKlient.AssemblyInfo.cs
+C:\Users\clara.witty\Prog2\ServerKlient\DemoKlient\obj\Debug\net8.0\DemoKlient.csproj.CoreCompileInputs.cache
+C:\Users\clara.witty\Prog2\ServerKlient\DemoKlient\obj\Debug\net8.0\DemoKlient.dll
+C:\Users\clara.witty\Prog2\ServerKlient\DemoKlient\obj\Debug\net8.0\refint\DemoKlient.dll
+C:\Users\clara.witty\Prog2\ServerKlient\DemoKlient\obj\Debug\net8.0\DemoKlient.pdb
+C:\Users\clara.witty\Prog2\ServerKlient\DemoKlient\obj\Debug\net8.0\DemoKlient.genruntimeconfig.cache
+C:\Users\clara.witty\Prog2\ServerKlient\DemoKlient\obj\Debug\net8.0\ref\DemoKlient.dll
