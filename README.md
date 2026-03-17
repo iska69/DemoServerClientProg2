@@ -16,3 +16,6 @@ This should work better because the server now binds to 0.0.0.0:5144, which mean
 
 good config improvement, weak workaround for the original problem.
 Notifying Iska now...
+
+
+shit min hjärna funkade inte. :/ men endå förbättrad kod.
