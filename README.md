@@ -3,6 +3,8 @@ medan det vi gjorde innan var att vi körde den över din ip 10.71.x.x vilket l�
 derför kunde inte en dator som min 10.81.x.x komma åt den
 
 10.81.x.x --❎--> 10.71.x.x
+
+
 10.81.x.x --✔️--> 0.0.0.0
 
 (om min hjärna fungerar rätt)
