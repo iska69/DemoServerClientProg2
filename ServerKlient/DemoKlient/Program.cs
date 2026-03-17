@@ -10,7 +10,7 @@ namespace DemoKlient
         {
             HttpClient client = new HttpClient();
 
-            string server = "http://10.71.39.98:5144/messages";
+            string server = "http://[SERVER IP]:5144/messages"; //Lägg till server ip här dum dum.
 
             Console.Write("Användarnamn: ");
             string user = Console.ReadLine();
@@ -37,7 +37,17 @@ namespace DemoKlient
 
                     var content = new StringContent(json, Encoding.UTF8, "application/json");
 
-                    await client.PostAsync(server, content);
+                    var response = await client.PostAsync(server, content);
+
+                    if (response.IsSuccessStatusCode)
+                    {
+                        Console.WriteLine("Meddelande skickat!");
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Fel: {response.StatusCode}");
+                    }
+
                 }
 
                 else if (choice == "2")
@@ -51,7 +61,7 @@ namespace DemoKlient
 
                     foreach (var m in messages)
                     {
-                        Console.WriteLine(m);
+                        
                         Console.WriteLine($"{m.user}: {m.text}");
                     }
                 }
@@ -71,3 +81,5 @@ namespace DemoKlient
     }
 
 }
+
+// Iska was here!
